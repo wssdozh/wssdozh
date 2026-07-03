@@ -1,6 +1,7 @@
-<p>
-  Изучатель разработки игр на Unity и психологии геймдизайна.
-  <img src="./assets/profile-pin.gif" width="34" alt="profile pin" align="center">
-</p>
+# wssdozh.exe
 
-Искрометно охочусь за крупицами знаний в этой информационной среде.
+`unity` `c#` `gamedev`
+<img src="./assets/profile-pin.gif" width="96" alt="profile pin" align="right">
+
+изучатель разработки игр на unity и психологии геймдизайна<br>
+искрометно охочусь за крупицами знаний в этой информационной среде итд...
