@@ -1,4 +1,4 @@
-# wssdozh.exe
+# wss://dozh
 
 `unity` `c#` `gamedev`
 <img src="./assets/profile-pin.gif" width="96" alt="profile pin" align="right">
